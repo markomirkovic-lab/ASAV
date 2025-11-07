@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DemoOggettiSgt2B.Codice.User">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAAAAAAIAAEAAAAAAAAAAAAAAgAAAQAAAAA=</HashCode>
+      <FileName>Codice\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoOggettiSgt2B.Codice.Teacher">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABCAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Codice\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoOggettiSgt2B.Codice.Student">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Codice\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoOggettiSgt2B.Codice.StudentScc">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAEAA=</HashCode>
+      <FileName>Codice\StudentScc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoOggettiSgt2B.Codice.StudentSsat">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAAA=</HashCode>
+      <FileName>Codice\StudentSsat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoOggettiSgt2B.Codice.StudentSsse">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Codice\StudentSsse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9.22" />
+</ClassDiagram>
