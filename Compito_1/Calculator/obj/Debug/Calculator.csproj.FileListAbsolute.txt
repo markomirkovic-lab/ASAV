@@ -1,0 +1,11 @@
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\bin\Debug\Calculator.exe.config
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\bin\Debug\Calculator.exe
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\bin\Debug\Calculator.pdb
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\obj\Debug\Calculator.Form1.resources
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\obj\Debug\Calculator.exe
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Compito_1\Calculator\obj\Debug\Calculator.pdb

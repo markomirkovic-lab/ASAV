@@ -1,0 +1,17 @@
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\bin\Debug\net6.0-windows\DemoOggettiSgt2A.exe
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\bin\Debug\net6.0-windows\DemoOggettiSgt2A.deps.json
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\bin\Debug\net6.0-windows\DemoOggettiSgt2A.runtimeconfig.json
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\bin\Debug\net6.0-windows\DemoOggettiSgt2A.dll
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\bin\Debug\net6.0-windows\DemoOggettiSgt2A.pdb
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.csproj.AssemblyReference.cache
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.Form1.resources
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.csproj.GenerateResource.cache
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.AssemblyInfoInputs.cache
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.AssemblyInfo.cs
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.csproj.CoreCompileInputs.cache
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.dll
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\refint\DemoOggettiSgt2A.dll
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.pdb
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\DemoOggettiSgt2A.genruntimeconfig.cache
+C:\Users\momi\source\repos\DemoOggettiSgt2A\DemoOggettiSgt2A\obj\Debug\net6.0-windows\ref\DemoOggettiSgt2A.dll
