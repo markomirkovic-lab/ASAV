@@ -1,0 +1,5 @@
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Introduzione alle classi\Persona_testing\obj\Debug\net6.0-windows\Persona_testing.csproj.AssemblyReference.cache
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Introduzione alle classi\Persona_testing\obj\Debug\net6.0-windows\Persona_testing.GeneratedMSBuildEditorConfig.editorconfig
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Introduzione alle classi\Persona_testing\obj\Debug\net6.0-windows\Persona_testing.AssemblyInfoInputs.cache
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Introduzione alle classi\Persona_testing\obj\Debug\net6.0-windows\Persona_testing.AssemblyInfo.cs
+F:\SIG\SGT2B\ASAV-Ambienti di sviluppo\Repos\Introduzione alle classi\Persona_testing\obj\Debug\net6.0-windows\Persona_testing.csproj.CoreCompileInputs.cache
